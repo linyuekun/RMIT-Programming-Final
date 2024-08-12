@@ -1,0 +1,6 @@
+S01, Call_Inter, Premium, 10.2
+S02, Call_Domes, Standard, 3.4
+S03, Data_Inter, Premium, 0.05
+S04, Data_Domes, Standard, 0.02
+S05, Text_Inter, Premium, 1.0
+S06, Text_Domes, Standard, 0.5
